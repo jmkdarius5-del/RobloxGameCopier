@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tex Uncopylocked Games</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🗂️ Tex Uncopylocked Games</h1>
+    <p>Free and editable Roblox games — made for creators!</p>
+  </header>
+
+  <section class="games">
+    <div class="game-card">
+      <h2>Tycoon Template</h2>
+      <p>A simple uncopylocked Tycoon with working buttons and money system.</p>
+      <a href="https://www.roblox.com/games/..." target="_blank">Get Game</a>
+    </div>
+
+    <div class="game-card">
+      <h2>Simulator Base</h2>
+      <p>Build your own simulator! Uncopylocked and ready to edit.</p>
+      <a href="https://www.roblox.com/games/..." target="_blank">Get Game</a>
+    </div>
+
+    <div class="game-card">
+      <h2>Obby Starter</h2>
+      <p>Classic obby setup — customize it with your own levels.</p>
+      <a href="https://www.roblox.com/games/..." target="_blank">Get Game</a>
+    </div>
+  </section>
+
+  <footer>
+    <p>Made by Darius — for all Roblox developers 💪</p>
+  </footer>
+</body>
+</html>
